@@ -1,0 +1,7 @@
+{
+  "name": "SenuxGPT",
+  "description": "An ultra-powerful AI workstation featuring cosmic blue animations, interactive starfields, Google Search grounding, website building with live preview, code runner, image generation, voice support, and colorful typography.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
